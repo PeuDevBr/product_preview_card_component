@@ -30,7 +30,7 @@ body {
 }
 
 #photoContainer {
-  width: 400px;
+  width: 370px;
   height: 300px;
   margin: 8px;
 
@@ -42,7 +42,7 @@ body {
 }
 
 #descriptionContainer {
-  width: 400px;
+  width: 375px;
   margin: 8px;
   padding: 32px;
 
@@ -62,7 +62,7 @@ body {
 #descriptionContainer span {
   line-height: 24px;
   width: 320px;
-  word-spacing: 6px;
+  word-spacing: 3px;
 }
 
 #priceContainer {
